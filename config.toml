@@ -4,7 +4,7 @@ theme = "hugo-theme-codex"
 # Override these settings with your own
 title = "DiscordSenpai"
 languageCode = "en-us"
-baseURL = ""
+baseURL = "https://www.discordsenpai.me"
 copyright = "© {2021}"
 
 # Add your Disqus shortname here.
